@@ -4,7 +4,7 @@ This project explores temperature data from the INMET meteorological station loc
 
 ## Temperature Trend Visualization
 
-![Temperature Trend](images/temperature_trend.png)
+![Temperature Trend](temperature-trend.png)
 
 The objective is to analyze temperature patterns and estimate a linear trend in average annual temperature.
 
