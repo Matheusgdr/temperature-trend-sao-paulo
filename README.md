@@ -47,6 +47,10 @@ Libraries:
 
 The analysis includes plots of temperature evolution and a linear trend estimation.
 
+## Temperature Trend Visualization
+
+![Temperature Trend](images/temperature_trend.png)
+
 ## Results
 
 The linear regression suggests a slight increase in average temperature during the analyzed period.
