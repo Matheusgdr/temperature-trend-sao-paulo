@@ -2,6 +2,10 @@
 
 This project explores temperature data from the INMET meteorological station located in São Paulo (Interlagos).
 
+## Temperature Trend Visualization
+
+![Temperature Trend](images/temperature_trend.png)
+
 The objective is to analyze temperature patterns and estimate a linear trend in average annual temperature.
 
 ## Data Source
@@ -46,10 +50,6 @@ Libraries:
 ## Example Visualization
 
 The analysis includes plots of temperature evolution and a linear trend estimation.
-
-## Temperature Trend Visualization
-
-![Temperature Trend](images/temperature_trend.png)
 
 ## Results
 
